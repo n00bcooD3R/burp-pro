@@ -1,4 +1,4 @@
-# Crack burp Manually
+# Crack burp Manually in linux
 
 <h2>Download Official burp proffessional from portswigger site OR </h2>
 <br>
@@ -11,4 +11,4 @@
   <br>
   <h2>After downloading burp-pro Clone this repo</h2>
   <br>
-  <code> git clone https://github.com/n00bcooD3R/burp-pro.git</code>
+  <h2>Type in terminal <code> git clone https://github.com/n00bcooD3R/burp-pro.git</code></h2>
