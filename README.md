@@ -32,7 +32,7 @@
   <h3><code>java -jar keygen.jar</code></h3>
   <br>
   <h2>STEP-5. The loader file will open up</h2><br><h3>
-  ⅰ. Modify License String like "license to YourName"<br>
+  ⅰ. Modify License String like "license to YourName"<br><br>
 	ⅱ. Copy License key from keygen.jar and paste in Burp Suite Pro and click Next.<br><br>
 	ⅲ. Select Manual Activation Option on your bottom Right in Burp Suite Pro.<br><br>
 	ⅳ. Copy License Request from BurpSuite_Pro and paste in keygen.jar<br><br>
