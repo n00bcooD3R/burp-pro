@@ -45,7 +45,7 @@
     ⅰ. With Sudo Permissions, Create a file with command "gedit /bin/burp"<br><br>
 	ⅱ. Paste command in text editor "java --illegal-access=permit -Dfile.encoding=utf-8 -javaagent:/home/kali/Desktop/burp/loader.jar -noverify -jar /home/kali/Desktop/burp/burpsuite_pro_v2022.1.jar &"<br><br>
 	ⅲ. Change Permissions for files with command "chmod +x /bin/burp"
-  </h3>
+  </h3><br><br>
   <h2>Last not least How to execute or open Burp After This Step</h2>
   <h1>Just simply Write burp in Terminal and press Enter<h1>
     <h1> hehe ENJOY</h1>
