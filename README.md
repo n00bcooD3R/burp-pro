@@ -33,17 +33,17 @@
   <br>
   <h2>STEP-5. The loader file will open up</h2><br><h3>
   ⅰ. Modify License String like "license to YourName"<br>
-	ⅱ. Copy License key from keygen.jar and paste in Burp Suite Pro and click Next.<br>
-	ⅲ. Select Manual Activation Option on your bottom Right in Burp Suite Pro.<br>
-	ⅳ. Copy License Request from BurpSuite_Pro and paste in keygen.jar<br>
+	ⅱ. Copy License key from keygen.jar and paste in Burp Suite Pro and click Next.<br><br>
+	ⅲ. Select Manual Activation Option on your bottom Right in Burp Suite Pro.<br><br>
+	ⅳ. Copy License Request from BurpSuite_Pro and paste in keygen.jar<br><br>
 	ⅴ. Copy license response from keygen.jar and paste in BurpSuite_Pro, and next and Done<br>
     </h3><h2>HEHE its Cracked 
   </h2>
   <br>
   <h2>How to automate These Steps</h2><br>
   <h3>
-    ⅰ. With Sudo Permissions, Create a file with command "gedit /bin/burp"<br>
-	ⅱ. Paste command in text editor "java --illegal-access=permit -Dfile.encoding=utf-8 -javaagent:/home/kali/Desktop/burp/loader.jar -noverify -jar /home/kali/Desktop/burp/burpsuite_pro_v2022.1.jar &"<br>
+    ⅰ. With Sudo Permissions, Create a file with command "gedit /bin/burp"<br><br>
+	ⅱ. Paste command in text editor "java --illegal-access=permit -Dfile.encoding=utf-8 -javaagent:/home/kali/Desktop/burp/loader.jar -noverify -jar /home/kali/Desktop/burp/burpsuite_pro_v2022.1.jar &"<br><br>
 	ⅲ. Change Permissions for files with command "chmod +x /bin/burp"
   </h3>
   <h2>Last not least How to execute or open Burp After This Step</h2>
