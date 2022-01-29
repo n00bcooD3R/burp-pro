@@ -7,7 +7,7 @@
   </h3>
   <br><br><br>
   <h2>Download the same <code>Burp Suite proffesional</code> and extension should be <code>.Jar</code> file</h2>
-  <img width="800" height="400" alt="Your internet speed sucks" src="-attributes/Screenshot 2022-01-28 214359.jpg"></img>
+  <img width="800" height="400" alt="Your internet speed sucks" src="-attributes/hehehe.gif"></img>
   <br>
   <h2>After downloading burp-pro Clone this repo</h2>
   <br>
