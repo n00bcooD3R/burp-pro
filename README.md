@@ -9,20 +9,20 @@
   <h2>Download the same <code>Burp Suite proffesional</code> and extension should be <code>.Jar</code> file</h2>
   <img width="800" height="400" alt="Your internet speed sucks" src="-attributes/hehehe.gif"></img>
   <br>
-  <h2>⊰1⊱. After downloading burp-pro Clone this repo</h2>
+  <h2>STEP-1. After downloading burp-pro Clone this repo</h2>
   <br>
   <h3>Type in terminal <code> git clone https://github.com/n00bcooD3R/burp-pro.git</code></h3>
   <br>
-  <h2>⊰2⊱. You will get a folder called <code>burp-pro</code> get into that folder . You will see two files called
+  <h2>STEP-2. You will get a folder called <code>burp-pro</code> get into that folder . You will see two files called
 <br>
   <code>keygen.jar</code>
 <br>
   <code>loader.jar</code>
 </h2>
 <br>
-<h2>⊰3⊱. Create a Folder named <code>burp</code> in desktop and Move both <code>keygen.jar</code> and <code>loader.jar</code> files into that folder using <code>mv</code> command</h2>
+<h2>STEP-3. Create a Folder named <code>burp</code> in desktop and Move both <code>keygen.jar</code> and <code>loader.jar</code> files into that folder using <code>mv</code> command</h2>
 <br>
-<h2>⊰4⊱. After that type in this command
+<h2>STEP-4. After that type in this command
   <h3><code>java --illegal-access=permit -Dfile.encoding=utf-8 -javaagent:/home/kali/Desktop/burp/loader.jar -noverify -jar /home/kali/Desktop/burp/burpsuite_pro_v2022.1.jar &</code>
   </h3>
   <br>NOTE:type in correct location (path) of the file while using above command</h2>
@@ -31,7 +31,7 @@
   <br>
   <h3><code>java -jar keygen.jar</code></h3>
   <br>
-  <h2>⊰5⊱. The loader file will open up</h2><br><h3>
+  <h2>STEP-5. The loader file will open up</h2><br><h3>
   ⅰ. Modify License String like "license to YourName"<br>
 	ⅱ. Copy License key from keygen.jar and paste in Burp Suite Pro and click Next.<br>
 	ⅲ. Select Manual Activation Option on your bottom Right in Burp Suite Pro.<br>
