@@ -1,4 +1,4 @@
-# Crack burp Manually in linux
+# Crack burp Manually in linux<h4>Guys, latest release doesn’t work with old crack. Please use previous release, we are try to get crack ASAP</h4>
 
 <h2>Download Official burp proffessional from portswigger site OR </h2>
 <br>
